@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Mausam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python programming
+- 👀 I’m interested in AI, ML, Deeplearning and Data Science 
+- 🌱 I’m currently working on Stock Market Prediction using ML and Automatic Tomato Harvesting using ML as detection.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I love to write and share my work in [Substack - Datalchemy](https://datachemy.substack.com/)
+
+To connect:
+[LinkedIn](https://www.linkedin.com/in/mausam-gurung-414425192/)
+
 
 <!---
 M9star/M9star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
