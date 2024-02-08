@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - I love to write and share my work in [Substack - Datalchemy](https://datachemy.substack.com/)
 
-To connect:
-[LinkedIn](https://www.linkedin.com/in/mausam-gurung-414425192/)
+Connect Me!
+[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/mausam-gurung-414425192/)
+
 
 
 <!---
