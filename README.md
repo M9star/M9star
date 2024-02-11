@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Mausam
-- 👀 I’m interested in AI, ML, Deeplearning and Data Science 
-- 🌱 I’m currently working on Stock Market Prediction using ML and Automatic Tomato Harvesting using ML as detection.
+- 👀 I’m interested in AI, ML, Deeplearning and Data Scienc 
 - 💞️ I’m looking to collaborate on ...
-- I love to write and share my work in [Substack - Datalchemy](https://datachemy.substack.com/)
-
-Connect Me!
+- 
+## Language
+* [X] Python
+* [X] SQL
+* [ ] Java 
+## Connect ME *_*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mausam-gurung-414425192/)
 
@@ -15,11 +17,14 @@ Connect Me!
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBBiNEpspXX_P1sh6e5MotA)
 
-My weeks--
-* [][][] commits 
-* [] BLog
+## My weekly commitment
+* [ ] Commits
+* [ ] Blog
 
+## Current working on project 
+* [ ] [Stock Market Prediction using ML](https://github.com/M9star/Stock-Market-prediction-using-Machine-Learning-in-Nepali-market./tree/main)
 
+* [ ] [Automatic tomato harvesting with Machine learning](https://github.com/M9star/Tomato-detection-using-ML-/blob/master/Major_Project_report_file_First%20defense.pdf)
 <!---
 M9star/M9star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
