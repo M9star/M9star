@@ -6,7 +6,9 @@
 
 Connect Me!
 [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/mausam-gurung-414425192/)
-
+My weeks--
+* [][][] commits 
+* [] BLog
 
 
 <!---
