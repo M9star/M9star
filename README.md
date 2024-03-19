@@ -16,7 +16,6 @@
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mausam-Gurung-3)
 
-
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBBiNEpspXX_P1sh6e5MotA)
 
 ## My weekly commitment
@@ -26,13 +25,14 @@
 ## Current working on project 
 
 ### MACHINE LEARNING PROJECT
+* [X] [Automatic tomato harvesting with Machine learning]([https://github.com/M9star/Tomato-detection-using-ML-/blob/master/Major_Project_report_file_First%20defense.pdf](https://github.com/M9star/Automatic-tomato-harvesting-with-Machine-learning/blob/main/README.md))
 * [ ] [Stock Market Prediction using ML](https://github.com/M9star/Stock-Market-prediction-using-Machine-Learning-in-Nepali-market./tree/main)
 
-* [ ] [Automatic tomato harvesting with Machine learning](https://github.com/M9star/Tomato-detection-using-ML-/blob/master/Major_Project_report_file_First%20defense.pdf)
+
 
 ### Python project
 
- * [X]  [Password Generator](https://github.com/M9star/Password__Generator)
+* [X]  [Password Generator](https://github.com/M9star/Password__Generator)
 * [X]  [BMI Calculator ](https://github.com/M9star/BMI__Calculator)
 * [X]  [Voice Asistant](https://github.com/M9star/Voice__Assistant)
 * [ ] [ e-Library management](https://github.com/M9star/Library_project_in_python)
@@ -40,7 +40,7 @@
 ### Datamining project
 * [X] [ Analysis of Sample Dataset using Classification](https://github.com/M9star/datamining-project/blob/main/README.md)
 
-### Electronic's Project 
+### Electronic's Project in Agriculture
 
 * [X]  [Smart Greenhouse for Horticulture](https://github.com/M9star/SmartGreenHouseForHorticulture)
 
