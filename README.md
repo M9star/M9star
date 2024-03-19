@@ -1,7 +1,27 @@
 - 👋 Hi, I’m @Mausam
 - 👀 I’m interested in AI, ML, Deep Learning and Data Science or you named it **Data Enthusiast**
-- 💞️ I’m looking to collaborate on ...
-- 
+
+### MACHINE LEARNING PROJECT
+* [X]  [Automatic tomato harvesting with Machine learning](https://github.com/M9star/Automatic-tomato-harvesting-with-Machine-learning/blob/main/README.md)
+
+
+### Python project
+
+* [X]  [Password Generator](https://github.com/M9star/Password__Generator)
+* [X]  [BMI Calculator ](https://github.com/M9star/BMI__Calculator)
+* [X]  [Voice Asistant](https://github.com/M9star/Voice__Assistant)
+
+### Datamining project
+* [X] [ Analysis of Sample Dataset using Classification](https://github.com/M9star/datamining-project/blob/main/README.md)
+
+### Electronic's Project in Agriculture
+
+* [X]  [Smart Greenhouse for Horticulture](https://github.com/M9star/SmartGreenHouseForHorticulture)
+
+###  Current working on project 
+* [ ]  [Stock Market Prediction using ML](https://github.com/M9star/Stock-Market-prediction-using-Machine-Learning-in-Nepali-market./tree/main)
+* [ ]  [ e-Library management](https://github.com/M9star/Library_project_in_python)
+
 ## Language
 * [X]  Python
 * [X]  SQL
@@ -12,7 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mausam-gurung-414425192/)
 
-[![Substack](https://img.shields.io/badge/Substack-FFA500?style=for-the-badge&logo=substack&logoColor=white)](https://example.substack.com)
+[![Substack](https://img.shields.io/badge/Substack-FFA500?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/profile/192171924-mausam)
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mausam-Gurung-3)
 
@@ -21,28 +41,6 @@
 ## My weekly commitment
 * [ ]  Commits - Push
 * [ ]  Blog
-
-## Current working on project 
-
-### MACHINE LEARNING PROJECT
-* [X] [Automatic tomato harvesting with Machine learning]([https://github.com/M9star/Tomato-detection-using-ML-/blob/master/Major_Project_report_file_First%20defense.pdf](https://github.com/M9star/Automatic-tomato-harvesting-with-Machine-learning/blob/main/README.md))
-* [ ] [Stock Market Prediction using ML](https://github.com/M9star/Stock-Market-prediction-using-Machine-Learning-in-Nepali-market./tree/main)
-
-
-
-### Python project
-
-* [X]  [Password Generator](https://github.com/M9star/Password__Generator)
-* [X]  [BMI Calculator ](https://github.com/M9star/BMI__Calculator)
-* [X]  [Voice Asistant](https://github.com/M9star/Voice__Assistant)
-* [ ] [ e-Library management](https://github.com/M9star/Library_project_in_python)
-
-### Datamining project
-* [X] [ Analysis of Sample Dataset using Classification](https://github.com/M9star/datamining-project/blob/main/README.md)
-
-### Electronic's Project in Agriculture
-
-* [X]  [Smart Greenhouse for Horticulture](https://github.com/M9star/SmartGreenHouseForHorticulture)
 
 
 
